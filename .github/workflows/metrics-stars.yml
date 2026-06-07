@@ -1,0 +1,26 @@
+name: Metrics - Starred Repos
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        name: Recently starred repos
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: Asia/Kolkata
+          output_action: commit
+          committer_branch: main
+          committer_message: "chore(metrics): update stars [skip ci]"
+          filename: assets/starred-repos.svg
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 6
+          plugin_stars_repos: yes
