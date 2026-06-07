@@ -2,7 +2,7 @@
 
 ```yaml
 ┌─────────────────────────────────────────────────────────┐
-│  BTW@nithin:~$ whoami                                │
+│  BTW@nithin:~$ whoami                                   │
 ├─────────────────────────────────────────────────────────┤
 │  Nithin · Game Developer                                │
 │  IACG, Hyderabad                                        │
@@ -48,7 +48,7 @@ I'm a **Game Developer & Systems Programmer** passionate about creating immersiv
 
 ---
 
-## BTW@nithin:~$ ./contribution-calendar --3d
+## BTW@nithin:~$ ./contribution-calendar
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithin-3&custom_title=Nithin's%20Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=0d1117&color=1793d1&line=1793d1&point=f0f6fc" width="98%" alt="Contribution Graph" />
@@ -96,17 +96,6 @@ I'm a **Game Developer & Systems Programmer** passionate about creating immersiv
 
 ---
 
-## BTW@nithin:~$ ./show-repos --by-topic
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin-3&layout=compact&theme=transparent&hide_border=true&icon_color=1793d1&title_color=1793d1&text_color=f0f6fc&bg_color=0d1117" />
-    <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin-3&layout=compact&theme=transparent&hide_border=true&icon_color=1793d1&title_color=1793d1&text_color=f0f6fc&bg_color=0d1117" alt="Top Languages" />
-  </picture>
-</p>
-
----
-
 ## BTW@nithin:~$ ./profile-summary --detailed
 
 <p align="center">
@@ -126,20 +115,6 @@ I'm a **Game Developer & Systems Programmer** passionate about creating immersiv
   📦 Shutter Minds                        Unity
   📦 Custom Physics Engine                C++
   📦 rollback-netcode-fighter (WIP)       C / SDL3
-```
-
-```text
-┌─[BTW@nithin]─[~/projects/rollback-netcode-fighter]
-└──╼ $ cat README.md
-```
-
-```text
-  Fighting game with rollback netcode in C using SDL3.
-  Low-level networking, input prediction, state
-  synchronization — no engine, just raw C.
-
-  Status:  In development
-  Focus:   Rollback implementation, deterministic logic
 ```
 
 ```text
