@@ -18,7 +18,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         name: Full metrics (terminal dashboard)
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           config_timezone: Asia/Kolkata
           base: header, activity, community, repositories, metadata
           base_indepth: yes
