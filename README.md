@@ -142,26 +142,6 @@ I'm a **Game Developer & Systems Programmer** passionate about creating immersiv
 
 ---
 
-## BTW@nithin:~$ ./insights
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nithin-3&theme=transparent" width="98%" alt="Repos Per Language" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Nithin-3">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/Nithin-3?style=for-the-badge&logo=person-add&labelColor=0d1117&color=1793d1&label=FOLLOWERS&logoColor=f0f6fc" alt="Followers" />
-  </a>
-  <a href="https://github.com/Nithin-3?tab=repositories&type=source">
-    <img src="https://custom-icon-badges.demolab.com/badge/-PUBLIC%20REPOS-0d1117?style=for-the-badge&logoColor=f0f6fc&logo=repo&labelColor=0d1117&color=1793d1" alt="Public Repos" />
-  </a>
-  <a href="https://github.com/Nithin-3?tab=stars">
-    <img src="https://custom-icon-badges.demolab.com/github/stars/Nithin-3?style=for-the-badge&logo=star&labelColor=0d1117&color=1793d1&logoColor=f0f6fc" alt="Stars" />
-  </a>
-</p>
-
----
-
 ## BTW@nithin:~$ uptime
 
 ```text
