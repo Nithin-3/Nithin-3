@@ -59,13 +59,13 @@
     <text x="265" y="205" style="font-size: 24px;">💻</text>
     <text class="value" x="300" y="205">Multi-Stack</text>
     <text class="label" x="300" y="220">C, C++, TypeScript,</text>
-    <text class="label" x="300" y="233">JavaScript & More</text>
+    <text class="label" x="300" y="233">JavaScript, More</text>
     
     <!-- Badge 7: Systems -->
     <rect class="badge" x="460" y="180" width="180" height="70" rx="6"/>
     <text x="475" y="205" style="font-size: 24px;">🔧</text>
     <text class="value" x="510" y="205">Systems Prog</text>
-    <text class="label" x="510" y="220">Linux & Low-Level</text>
+    <text class="label" x="510" y="220">Linux and Low-Level</text>
     <text class="label" x="510" y="233">Development</text>
     
     <!-- Badge 8: Shipped -->
@@ -79,9 +79,9 @@
   <!-- Stats Footer -->
   <g id="footer">
     <line x1="40" y1="290" x2="920" y2="290" stroke="#30363d" stroke-width="1"/>
-    <text class="label" x="40" y="320">✓ 5 Total Stars • 207 Commits • 9 PRs • 6 Issues • 18 Contributions</text>
+    <text class="label" x="40" y="320">✓ 5 Stars  •  207 Commits  •  9 PRs  •  6 Issues  •  18 Contributions</text>
     <text class="label" x="40" y="345">✓ Languages: C • C++ • TypeScript • JavaScript • Lua • GDScript</text>
-    <text class="label" x="40" y="370">✓ Focus: Game Development • Systems Programming • WebRTC & Real-Time Communications</text>
+    <text class="label" x="40" y="370">✓ Focus: Game Dev • Systems Programming • WebRTC Communications</text>
     <text class="label" x="40" y="390" style="fill: #8b949e;">Updated: Real-time from GitHub API</text>
   </g>
 </svg>
