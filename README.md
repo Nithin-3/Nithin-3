@@ -56,19 +56,19 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nithin-3&show_icons=true&theme=transparent&hide_border=true&icon_color=1793d1&title_color=1793d1&text_color=f0f6fc&bg_color=0d1117&count_private=true&include_all_commits=true&custom_title=BTW@nithin:~$%20stats" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nithin-3&show_icons=true&theme=transparent&hide_border=true&icon_color=1793d1&title_color=1793d1&text_color=f0f6fc&bg_color=0d1117&count_private=true&include_all_commits=true&custom_title=BTW@nithin:~$%20stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nithin-3&show_icons=true&theme=transparent&hide_border=true&icon_color=1793d1&title_color=1793d1&text_color=f0f6fc&bg_color=0d1117" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nithin-3&show_icons=true&theme=transparent&hide_border=true&icon_color=1793d1&title_color=1793d1&text_color=f0f6fc&bg_color=0d1117" alt="GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Nithin-3&theme=transparent&hide_border=true&ring=1793d1&fire=1793d1&currStreakLabel=1793d1&sideLabels=f0f6fc&dates=8b949e&background=0d1117" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Nithin-3&theme=transparent&hide_border=true&ring=1793d1&fire=1793d1&currStreakLabel=1793d1&sideLabels=f0f6fc&dates=8b949e&background=0d1117" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Nithin-3&theme=transparent&hide_border=true&ring=1793d1&fire=1793d1&currStreakLabel=1793d1&sideLabels=f0f6fc&dates=8b949e&stroke=1793d1" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Nithin-3&theme=transparent&hide_border=true&ring=1793d1&fire=1793d1&currStreakLabel=1793d1&sideLabels=f0f6fc&dates=8b949e&stroke=1793d1" alt="GitHub Streak" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithin-3&theme=transparent" />
-    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithin-3&theme=transparent" />
+    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithin-3&theme=transparent" alt="Profile Details" />
   </picture>
 </p>
 
@@ -78,8 +78,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin-3&layout=compact&theme=transparent&hide_border=true&icon_color=1793d1&title_color=1793d1&text_color=f0f6fc&bg_color=0d1117&langs_count=8" />
-    <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin-3&layout=compact&theme=transparent&hide_border=true&icon_color=1793d1&title_color=1793d1&text_color=f0f6fc&bg_color=0d1117&langs_count=8" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin-3&layout=compact&theme=transparent&hide_border=true&icon_color=1793d1&title_color=1793d1&text_color=f0f6fc&bg_color=0d1117" />
+    <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin-3&layout=compact&theme=transparent&hide_border=true&icon_color=1793d1&title_color=1793d1&text_color=f0f6fc&bg_color=0d1117" alt="Top Languages" />
   </picture>
 </p>
 
@@ -116,13 +116,13 @@
 
 <p align="center">
   <a href="https://github.com/Nithin-3">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/Nithin-3?style=for-the-badge&logo=person-add&labelColor=0d1117&color=1793d1&label=FOLLOWERS&logoColor=f0f6fc" />
+    <img src="https://custom-icon-badges.demolab.com/github/followers/Nithin-3?style=for-the-badge&logo=person-add&labelColor=0d1117&color=1793d1&label=FOLLOWERS&logoColor=f0f6fc" alt="Followers" />
   </a>
   <a href="https://github.com/Nithin-3?tab=repositories&type=source">
-    <img src="https://custom-icon-badges.demolab.com/badge/-PUBLIC%20REPOS-0d1117?style=for-the-badge&logoColor=f0f6fc&logo=repo&labelColor=0d1117&color=1793d1" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-PUBLIC%20REPOS-0d1117?style=for-the-badge&logoColor=f0f6fc&logo=repo&labelColor=0d1117&color=1793d1" alt="Public Repos" />
   </a>
   <a href="https://github.com/Nithin-3?tab=stars">
-    <img src="https://custom-icon-badges.demolab.com/github/stars/Nithin-3?style=for-the-badge&logo=star&labelColor=0d1117&color=1793d1&logoColor=f0f6fc" />
+    <img src="https://custom-icon-badges.demolab.com/github/stars/Nithin-3?style=for-the-badge&logo=star&labelColor=0d1117&color=1793d1&logoColor=f0f6fc" alt="Stars" />
   </a>
 </p>
 
@@ -140,7 +140,7 @@
 ```
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nithin-3&style=flat-square&color=1793d1&label=VIEWS" />
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-1793d1?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/SHELL-ZSH-1793d1?style=flat-square&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=Nithin-3&style=flat-square&color=1793d1&label=VIEWS" alt="Views" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-1793d1?style=flat-square&labelColor=0d1117" alt="Status" />
+  <img src="https://img.shields.io/badge/SHELL-ZSH-1793d1?style=flat-square&labelColor=0d1117" alt="Shell" />
 </p>
