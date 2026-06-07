@@ -51,7 +51,7 @@ I'm a **Game Developer & Systems Programmer** passionate about creating immersiv
 ## BTW@nithin:~$ ./contribution-calendar
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithin-3&theme=transparent" width="98%" alt="Contribution Calendar" />
+  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg?raw=true" width="98%" alt="Full Year Contribution Calendar" />
 </p>
 
 <p align="center">
@@ -142,6 +142,17 @@ I'm a **Game Developer & Systems Programmer** passionate about creating immersiv
   ├── PDF Summary     — NLP-based summarization
   └── Checker CNN     — Face recognition model
 ```
+
+---
+
+## BTW@nithin:~$ ./profile-summary --detailed
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithin-3&theme=transparent" />
+    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithin-3&theme=transparent" alt="Profile Details" />
+  </picture>
+</p>
 
 ---
 
