@@ -51,7 +51,7 @@ I'm a **Game Developer & Systems Programmer** passionate about creating immersiv
 ## BTW@nithin:~$ ./contribution-calendar
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithin-3&custom_title=Nithin's%20Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=0d1117&color=1793d1&line=1793d1&point=f0f6fc" width="98%" alt="Contribution Graph" />
+   <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" width="98%" alt="Full Year Contribution Calendar" />
 </p>
 
 ---
