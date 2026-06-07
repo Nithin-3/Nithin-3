@@ -25,55 +25,44 @@ jobs:
           output_action: commit
           committer_branch: main
           committer_message: "chore(metrics): update dashboard [skip ci]"
-
           filename: assets/metrics.svg
           config_order: base.header, isocalendar, languages, habits, achievements, notable, activity, repositories, stars, followup, lines, people
           config_display: large
           config_padding: 0, 8
-
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
           plugin_languages_indepth: yes
           plugin_languages_sections: most-used
           plugin_languages_colors: github
-
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 30
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_habits_trim: yes
-
           plugin_achievements: yes
           plugin_achievements_threshold: C
           plugin_achievements_secrets: yes
           plugin_achievements_display: compact
           plugin_achievements_limit: 10
-
           plugin_followup: yes
           plugin_followup_sections: repositories
-
           plugin_lines: yes
           plugin_lines_history: 90
           plugin_lines_delay: 0.1
-
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_stars_repos: yes
-
           plugin_people: yes
           plugin_people_types: followers, following
           plugin_people_limit: 6
           plugin_people_size: 28
-
           plugin_projects: yes
           plugin_projects_limit: 4
           plugin_projects_descriptions: yes
-
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit, pull_request
@@ -87,11 +76,11 @@ jobs:
           output_action: commit
           committer_branch: main
           committer_message: "chore(metrics): update isocalendar [skip ci]"
-
           filename: assets/isometric-contributions.svg
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          svg_renderer: true
 
       - uses: lowlighter/metrics@latest
         name: Coding habits chart
@@ -101,7 +90,6 @@ jobs:
           output_action: commit
           committer_branch: main
           committer_message: "chore(metrics): update habits [skip ci]"
-
           filename: assets/coding-habits.svg
           base: ""
           plugin_habits: yes
@@ -110,6 +98,7 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_habits_trim: yes
+          svg_renderer: true
 
       - uses: lowlighter/metrics@latest
         name: Languages chart
@@ -119,7 +108,6 @@ jobs:
           output_action: commit
           committer_branch: main
           committer_message: "chore(metrics): update languages [skip ci]"
-
           filename: assets/languages.svg
           base: ""
           plugin_languages: yes
@@ -138,7 +126,6 @@ jobs:
           output_action: commit
           committer_branch: main
           committer_message: "chore(metrics): update achievements [skip ci]"
-
           filename: assets/achievements.svg
           base: ""
           plugin_achievements: yes
@@ -146,6 +133,7 @@ jobs:
           plugin_achievements_secrets: yes
           plugin_achievements_display: compact
           plugin_achievements_limit: 12
+          svg_renderer: true
 
       - uses: lowlighter/metrics@latest
         name: Recently starred repos
@@ -155,7 +143,6 @@ jobs:
           output_action: commit
           committer_branch: main
           committer_message: "chore(metrics): update stars [skip ci]"
-
           filename: assets/starred-repos.svg
           base: ""
           plugin_stars: yes
@@ -170,7 +157,6 @@ jobs:
           output_action: commit
           committer_branch: main
           committer_message: "chore(metrics): update lines [skip ci]"
-
           filename: assets/lines-of-code.svg
           base: ""
           plugin_lines: yes
