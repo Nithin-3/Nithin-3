@@ -33,26 +33,25 @@ I'm a **Game Developer & Systems Programmer** passionate about creating immersiv
 
 ---
 
-## BTW@nithin:~$ ./github-stats --real
+## BTW@nithin:~$ ./github-stats --real && ./contribution-calendar
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nithin-3&show_icons=true&theme=transparent&hide_border=true&icon_color=1793d1&title_color=1793d1&text_color=f0f6fc&bg_color=0d1117&card_width=500" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nithin-3&show_icons=true&theme=transparent&hide_border=true&icon_color=1793d1&title_color=1793d1&text_color=f0f6fc&bg_color=0d1117&card_width=500" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Nithin-3&theme=transparent&hide_border=true&ring=1793d1&fire=1793d1&currStreakLabel=1793d1&sideLabels=f0f6fc&dates=8b949e" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Nithin-3&theme=transparent&hide_border=true&ring=1793d1&fire=1793d1&currStreakLabel=1793d1&sideLabels=f0f6fc&dates=8b949e" alt="GitHub Streak" />
-  </picture>
-</p>
-
----
-
-## BTW@nithin:~$ ./contribution-calendar
-
-<p align="center">
-  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg?raw=true" width="98%" alt="Full Year Contribution Calendar" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nithin-3&show_icons=true&theme=transparent&hide_border=true&icon_color=1793d1&title_color=1793d1&text_color=f0f6fc&bg_color=0d1117&card_width=500" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Nithin-3&show_icons=true&theme=transparent&hide_border=true&icon_color=1793d1&title_color=1793d1&text_color=f0f6fc&bg_color=0d1117&card_width=500" alt="GitHub Stats" />
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Nithin-3&theme=transparent&hide_border=true&ring=1793d1&fire=1793d1&currStreakLabel=1793d1&sideLabels=f0f6fc&dates=8b949e" />
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Nithin-3&theme=transparent&hide_border=true&ring=1793d1&fire=1793d1&currStreakLabel=1793d1&sideLabels=f0f6fc&dates=8b949e" alt="GitHub Streak" />
+      </picture>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://ghchart.rshah.org/1793d1/Nithin-3" width="100%" alt="Contribution Calendar" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithin-3&theme=dark&hide_border=true&bg_color=0d1117&color=1793d1&line=1793d1&point=f0f6fc" width="98%" alt="Activity Graph" />
@@ -77,22 +76,9 @@ I'm a **Game Developer & Systems Programmer** passionate about creating immersiv
 
 ## BTW@nithin:~$ ./achievements --showcase
 
-### 🏆 Achievements
-
-<div align="center">
-
-| Achievement | Details |
-|:-:|:-:|
-| 🎮 **Game Developer** | Multiple shipped games across Godot & Unity |
-| ⚡ **Low-Level Systems** | Custom physics engine & rollback netcode in C |
-| 🚀 **Full Stack** | Backend, Frontend, Mobile, Desktop, Linux Systems |
-| 📱 **WebRTC Expert** | Real-time encrypted communication systems |
-| 🤖 **AI/ML Integration** | Face recognition & NLP implementations |
-| 🔧 **Systems Programming** | Raw C, Wayland, raw sockets, Linux internals |
-| 🌐 **Open Source** | Active contributor & project maintainer |
-| 📊 **Consistent Contributor** | Regular coding activity & project updates |
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nithin-3/Nithin-3/main/assets/achievements.svg" width="98%" alt="Achievements" />
+</p>
 
 ---
 
