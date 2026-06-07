@@ -1,53 +1,18 @@
-
-```text
-                         _ _   _       _ _            _
-     /\                 (_) | (_)     (_) |          | |
-    /  \   _ __  _ __   _| |_ _  ___   _| |__  _ __  | |
-   / /\ \ | '_ \| '_ \ | | __| |/ __| | | '_ \| '_ \ | |
-  / ____ \| | | | | | || | |_| | (__  | | | | | | | || |
- /_/    \_\_| |_|_| |_|/ |\__|_|\___| |_|_| |_|_| |_||_|
-                      __/ |
-                     |___/
-```
+## BTW@nithin:~$ whoami
 
 ```yaml
 ┌─────────────────────────────────────────────────────────┐
-│  user@archlinux:~$ neofetch                             │
+│  BTW@nithin:~$ whoami                                │
 ├─────────────────────────────────────────────────────────┤
-│  OS:       Arch Linux x86_64                            │
-│  Shell:    zsh                                          │
-│  Editor:   NeoVim                                       │
-│  WM:       Hyprland                                     │
-│  Terminal: kitty                                        │
-│  Role:     Game Developer                               │
-│  Location: IACG, Hyderabad                              │
+│  Nithin · Game Developer                                │
+│  IACG, Hyderabad                                        │
+│  C · C++ · SDL3 · Unity · Godot · Linux                 │
 └─────────────────────────────────────────────────────────┘
 ```
 
-```text
-user@archlinux:~$ █
-```
-
 ---
 
-## █  user@archlinux:~$ whoami
-
-```text
-  Nithin
-  Game Developer · Graphics & Systems
-
-  Currently at IACG, Hyderabad.
-  Building games, engines, and low-level tooling.
-
-  Unity · Godot · C · C++ · SDL3 · WebRTC · React Native
-
-  "Currently writing a fighting game in C with SDL3 —
-   implementing rollback netcode from scratch."
-```
-
----
-
-## █  user@archlinux:~$ ls -la projects/game-dev/
+## BTW@nithin:~$ ls -la projects/game-dev/
 
 ```text
   📦 AntiBio Game                         Godot
@@ -58,7 +23,7 @@ user@archlinux:~$ █
 ```
 
 ```text
-┌─[user@archlinux]─[~/projects/rollback-netcode-fighter]
+┌─[BTW@nithin]─[~/projects/rollback-netcode-fighter]
 └──╼ $ cat README.md
 ```
 
@@ -72,7 +37,7 @@ user@archlinux:~$ █
 ```
 
 ```text
-┌─[user@archlinux]─[~/projects]
+┌─[BTW@nithin]─[~/projects]
 └──╼ $ tree -L 1 game-dev/
 ```
 
@@ -87,12 +52,12 @@ user@archlinux:~$ █
 
 ---
 
-## █  user@archlinux:~$ ./github-stats --real
+## BTW@nithin:~$ ./github-stats --real
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nithin-3&show_icons=true&theme=transparent&hide_border=true&icon_color=1793d1&title_color=1793d1&text_color=f0f6fc&bg_color=0d1117&count_private=true&include_all_commits=true&custom_title=user@archlinux:~$%20stats" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nithin-3&show_icons=true&theme=transparent&hide_border=true&icon_color=1793d1&title_color=1793d1&text_color=f0f6fc&bg_color=0d1117&count_private=true&include_all_commits=true&custom_title=user@archlinux:~$%20stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nithin-3&show_icons=true&theme=transparent&hide_border=true&icon_color=1793d1&title_color=1793d1&text_color=f0f6fc&bg_color=0d1117&count_private=true&include_all_commits=true&custom_title=BTW@nithin:~$%20stats" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nithin-3&show_icons=true&theme=transparent&hide_border=true&icon_color=1793d1&title_color=1793d1&text_color=f0f6fc&bg_color=0d1117&count_private=true&include_all_commits=true&custom_title=BTW@nithin:~$%20stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Nithin-3&theme=transparent&hide_border=true&ring=1793d1&fire=1793d1&currStreakLabel=1793d1&sideLabels=f0f6fc&dates=8b949e&background=0d1117" />
@@ -109,7 +74,7 @@ user@archlinux:~$ █
 
 ---
 
-## █  user@archlinux:~$ ./show-repos --by-topic
+## BTW@nithin:~$ ./show-repos --by-topic
 
 <p align="center">
   <picture>
@@ -120,7 +85,7 @@ user@archlinux:~$ █
 
 ---
 
-## █  user@archlinux:~$ cat other-projects.md
+## BTW@nithin:~$ cat other-projects.md
 
 ```text
   App Development
@@ -143,7 +108,7 @@ user@archlinux:~$ █
 
 ---
 
-## █  user@archlinux:~$ ./insights
+## BTW@nithin:~$ ./insights
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nithin-3/Nithin-3/main/assets/metrics.svg" width="98%" alt="GitHub metrics" />
@@ -163,7 +128,7 @@ user@archlinux:~$ █
 
 ---
 
-## █  user@archlinux:~$ uptime
+## BTW@nithin:~$ uptime
 
 ```text
   Profile:    github.com/Nithin-3
@@ -179,28 +144,3 @@ user@archlinux:~$ █
   <img src="https://img.shields.io/badge/STATUS-BUILDING-1793d1?style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/SHELL-ZSH-1793d1?style=flat-square&labelColor=0d1117" />
 </p>
-
-```text
-user@archlinux:~$ exit
-```
-
----
-
-<details>
-  <summary><code>user@archlinux:~$ cat .github/workflows/README.md</code></summary>
-
-  ### GitHub Actions
-
-  | Workflow | File | Frequency |
-  |---|---|---|
-  | Metrics | `.github/workflows/metrics.yml` | Daily |
-  | Snake   | `.github/workflows/snake.yml`   | Daily |
-
-  Assets auto-commit to `assets/`. Requires `METRICS_TOKEN` secret (PAT with `repo` + `user` scopes).
-
-</details>
-
-```text
-
-  user@archlinux:~$ _
-```
