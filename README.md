@@ -18,7 +18,7 @@
 
 ### 👋 Welcome to My Digital Space
 
-I'm a **Game Developer & Systems Programmer** passionate about creating immersive experiences and exploring the depths of low-level systems programming. Currently shipping a **fighting game in pure C with SDL3**, implementing advanced networking patterns like rollback netcode from scratch.
+I'm a **Game Developer & Systems Programmer** passionate about creating immersive experiences and exploring the depths of low-level systems programming. Currently shipping a **fighting game in C/SDL3** with rollback netcode.
 
 **My Expertise:**
 - 🎮 **Game Development** — Godot, Unity, Custom Engines
@@ -37,12 +37,12 @@ I'm a **Game Developer & Systems Programmer** passionate about creating immersiv
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nithin-3&show_icons=true&theme=transparent&hide_border=true&icon_color=1793d1&title_color=1793d1&text_color=f0f6fc&bg_color=0d1117" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nithin-3&show_icons=true&theme=transparent&hide_border=true&icon_color=1793d1&title_color=1793d1&text_color=f0f6fc&bg_color=0d1117" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nithin-3&show_icons=true&theme=transparent&hide_border=true&icon_color=1793d1&title_color=1793d1&text_color=f0f6fc&bg_color=0d1117&card_width=500" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nithin-3&show_icons=true&theme=transparent&hide_border=true&icon_color=1793d1&title_color=1793d1&text_color=f0f6fc&bg_color=0d1117&card_width=500" alt="GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Nithin-3&theme=transparent&hide_border=true&ring=1793d1&fire=1793d1&currStreakLabel=1793d1&sideLabels=f0f6fc&dates=8b949e&stroke=1793d1" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Nithin-3&theme=transparent&hide_border=true&ring=1793d1&fire=1793d1&currStreakLabel=1793d1&sideLabels=f0f6fc&dates=8b949e&stroke=1793d1" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Nithin-3&theme=transparent&hide_border=true&ring=1793d1&fire=1793d1&currStreakLabel=1793d1&sideLabels=f0f6fc&dates=8b949e" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Nithin-3&theme=transparent&hide_border=true&ring=1793d1&fire=1793d1&currStreakLabel=1793d1&sideLabels=f0f6fc&dates=8b949e" alt="GitHub Streak" />
   </picture>
 </p>
 
@@ -51,7 +51,11 @@ I'm a **Game Developer & Systems Programmer** passionate about creating immersiv
 ## BTW@nithin:~$ ./contribution-calendar
 
 <p align="center">
-   <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" width="98%" alt="Full Year Contribution Calendar" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithin-3&theme=transparent" width="98%" alt="Contribution Calendar" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithin-3&theme=dark&hide_border=true&bg_color=0d1117&color=1793d1&line=1793d1&point=f0f6fc" width="98%" alt="Activity Graph" />
 </p>
 
 ---
@@ -67,10 +71,6 @@ I'm a **Game Developer & Systems Programmer** passionate about creating immersiv
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nithin-3&theme=transparent" />
     <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nithin-3&theme=transparent" alt="Most Commit Language" />
   </picture>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nithin-3/Nithin-3/main/assets/contribution-calendar.svg" width="98%" alt="3D Contribution Calendar" />
 </p>
 
 ---
@@ -93,17 +93,6 @@ I'm a **Game Developer & Systems Programmer** passionate about creating immersiv
 | 📊 **Consistent Contributor** | Regular coding activity & project updates |
 
 </div>
-
----
-
-## BTW@nithin:~$ ./profile-summary --detailed
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithin-3&theme=transparent" />
-    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithin-3&theme=transparent" alt="Profile Details" />
-  </picture>
-</p>
 
 ---
 
@@ -159,7 +148,7 @@ I'm a **Game Developer & Systems Programmer** passionate about creating immersiv
 ## BTW@nithin:~$ ./insights
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nithin-3/Nithin-3/main/assets/metrics.svg" width="98%" alt="GitHub metrics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nithin-3&theme=transparent" width="98%" alt="Repos Per Language" />
 </p>
 
 <p align="center">
