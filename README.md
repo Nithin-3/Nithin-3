@@ -126,21 +126,11 @@
 ```text
   Linux / Systems
   ├── ozhium-ollium      — OSD controller, pure C, Wayland
-  └── Shell-Shript    — Reverse shell, raw sockets
-```
-<img src="https://img.shields.io/badge/C-2ea043?style=flat" alt="C">
-<img src="https://img.shields.io/badge/Wayland-bc8cff?style=flat" alt="Wayland">
-<img src="https://img.shields.io/badge/Raw%20Sockets-bc8cff?style=flat" alt="Raw Sockets">
-
-```text
+  └── Shell-Shript       — Reverse shell, raw sockets
   AI / ML
   ├── PDF Summary     — NLP-based summarization
   └── Checker CNN     — Face recognition model
 ```
-<img src="https://img.shields.io/badge/NLP-bc8cff?style=flat" alt="NLP">
-<img src="https://img.shields.io/badge/CNN-1793d1?style=flat" alt="CNN">
-<img src="https://img.shields.io/badge/Face%20Recognition-1793d1?style=flat" alt="Face Recognition">
-
 ---
 
 ## <span style="color:#1793d1">user@nithin:~$</span> ./profile-summary --detailed
