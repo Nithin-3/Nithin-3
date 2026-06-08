@@ -78,6 +78,47 @@
   └── rollback-netcode(unnamed)/      C     — SDL3, rollback netcode (WIP)
 ```
 
+<br>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <table>
+        <tr><td><b>AntiBio Game</b></td></tr>
+        <tr><td><code>Godot · Android</code></td></tr>
+        <tr><td>2D platformer educating on antibiotic resistance. 5 levels — enemies mutate like bacteria, gaining new traits each level. Power-ups unlock per level. Custom joystick, no external assets. Award-winning.</td></tr>
+        <tr><td><code>GDScript</code></td></tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <table>
+        <tr><td><b>Stick Man Fantasum Run</b></td></tr>
+        <tr><td><code>Unity · Android</code></td></tr>
+        <tr><td>Endless runner with 5 power-ups and a story mode across 5 levels. Art by Clip Studio.</td></tr>
+        <tr><td><code>C#, Clip Studio</code></td></tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <table>
+        <tr><td><b>Shutter Minds</b></td></tr>
+        <tr><td><code>Unity + Blender · PC</code></td></tr>
+        <tr><td>3D horror set in building environments, built at an IGDC 3-day hackathon. Story mode in development.</td></tr>
+        <tr><td><code>C#, Blender</code></td></tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <table>
+        <tr><td><b>Rollback Netcode (unnamed)</b></td></tr>
+        <tr><td><code>C / SDL3 · PC</code></td></tr>
+        <tr><td>Low-level rollback netcode fully in C. Render control HUD under development.</td></tr>
+        <tr><td><code>C, SDL3, WebSocket, Node.js</code></td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## user@nithin:~$ cat other-projects.md
