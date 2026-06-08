@@ -1,11 +1,11 @@
-## BTW@nithin:~$ whoami
+## BTW@nithin:~$ fastfetch
 
 ```yaml
 ┌─────────────────────────────────────────────────────────┐
-│  BTW@nithin:~$ whoami                                   │
+│  BTW@nithin:~$ fastfetch                                │
 ├─────────────────────────────────────────────────────────┤
 │  Nithin · Game Developer                                │
-│  IACG, Hyderabad                                        │
+│                                                         │
 │  C · C++ · SDL3 · Unity · Godot · Linux                 │
 └─────────────────────────────────────────────────────────┘
 ```
@@ -92,25 +92,14 @@ I'm a **Game Developer & Systems Programmer** passionate about creating immersiv
 ## BTW@nithin:~$ ls -la projects/game-dev/
 
 ```text
-  📦 AntiBio Game                         Godot
-  📦 Stick Man Fantasum Run               Unity
-  📦 Shutter Minds                        Unity
-  📦 Custom Physics Engine                C++
-  📦 rollback-netcode-fighter (WIP)       C / SDL3
-```
-
-```text
 ┌─[BTW@nithin]─[~/projects]
 └──╼ $ tree -L 1 game-dev/
-```
-
-```text
   game-dev/
-  ├── antibio-game/          Godot — Award-winning educational game
-  ├── stickman-fantasum/     Unity — 2D endless runner, 5 power-ups
-  ├── shutter-minds/         Unity — 3D horror game
-  ├── physics-engine/        C++   — Collisions, forces, gravity
-  └── rollback-fighter/      C     — SDL3, rollback netcode (WIP)
+  ├── antibio-game/                   Godot — Award-winning educational game
+  ├── stickman-fantasum/              Unity — 2D endless runner, 5 power-ups
+  ├── shutter-minds/                  Unity — 3D horror game
+  ├── physics-engine/                 C++   — Collisions, forces, gravity
+  └── rollback-netcode(unnamed)/      C     — SDL3, rollback netcode (WIP)
 ```
 
 ---
@@ -118,17 +107,8 @@ I'm a **Game Developer & Systems Programmer** passionate about creating immersiv
 ## BTW@nithin:~$ cat other-projects.md
 
 ```text
-  App Development
-  ├── PandaDoc        — WebRTC encrypted chat (React Native)
-  ├── PdFview         — PDF viewer with swipe navigation
-  └── Civil Tools     — Site mgmt app (attendance, stock, logs)
-
-  Web Development
-  ├── t2t             — WebRTC video/text (React)
-  └── Checker         — ML face recognition attendance
-
   Linux / Systems
-  ├── Echo-Meter      — OSD controller, pure C, Wayland
+  ├── ozhium-ollium      — OSD controller, pure C, Wayland
   └── Shell-Shript    — Reverse shell, raw sockets
 
   AI / ML
@@ -148,20 +128,3 @@ I'm a **Game Developer & Systems Programmer** passionate about creating immersiv
 </p>
 
 ---
-
-## BTW@nithin:~$ uptime
-
-```text
-  Profile:    github.com/Nithin-3
-  Status:     Shipping a fighting game in C/SDL3
-  Focus:      Rollback netcode · deterministic game logic
-  Stack:      C · SDL3 · raw sockets
-
-  "No engine. Just C, SDL3, and a dream."
-```
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nithin-3&style=flat-square&color=1793d1&label=VIEWS" alt="Views" />
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-1793d1?style=flat-square&labelColor=0d1117" alt="Status" />
-  <img src="https://img.shields.io/badge/SHELL-ZSH-1793d1?style=flat-square&labelColor=0d1117" alt="Shell" />
-</p>
