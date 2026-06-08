@@ -1,4 +1,4 @@
-## user@nithin:~$ fastfetch
+## <span style="color:#1793d1">user@nithin:~$</span> fastfetch
 
 ```yaml
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
@@ -14,9 +14,9 @@
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
----
+<hr style="border:1px solid #1793d1">
 
-## user@nithin:~$ ./github-stats --real && ./contribution-calendar
+## <span style="color:#1793d1">user@nithin:~$</span> ./github-stats --real && ./contribution-calendar
 
 <table>
   <tr>
@@ -36,9 +36,9 @@
   </tr>
 </table>
 
----
+<hr style="border:1px solid #1793d1">
 
-## user@nithin:~$ ./coding-habits --analysis && ./activity-heatmap --recent
+## <span style="color:#1793d1">user@nithin:~$</span> ./coding-habits --analysis && ./activity-heatmap --recent
 
 <table>
   <tr>
@@ -65,9 +65,9 @@
   </tr>
 </table>
 
----
+<hr style="border:1px solid #1793d1">
 
-## user@nithin:~$ tree -L 1 projects/game-dev/
+## <span style="color:#1793d1">user@nithin:~$</span> tree -L 1 projects/game-dev/
 
 ```text
   game-dev/
@@ -82,48 +82,52 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <b>AntiBio Game</b><br>
-      <kbd>Godot</kbd> <kbd>Android</kbd> <kbd>GDScript</kbd><br>
+    <td width="50%" valign="top" style="border-left:3px solid #1793d1;padding-left:10px">
+      <b style="color:#1793d1">AntiBio Game</b><br>
+      <kbd style="background:#1793d1;color:#fff;padding:1px 6px;border-radius:3px">Godot</kbd> <kbd style="background:#d29922;color:#fff;padding:1px 6px;border-radius:3px">Android</kbd> <kbd style="background:#2ea043;color:#fff;padding:1px 6px;border-radius:3px">GDScript</kbd><br>
       2D platformer educating on antibiotic resistance. 5 levels — enemies mutate like bacteria, gaining new traits each level. Power-ups unlock per level. Custom joystick, no external assets. Award-winning.
     </td>
-    <td width="50%" valign="top">
-      <b>Stick Man Fantasum Run</b><br>
-      <kbd>Unity</kbd> <kbd>Android</kbd> <kbd>C#</kbd> <kbd>Clip Studio</kbd><br>
+    <td width="50%" valign="top" style="border-left:3px solid #1793d1;padding-left:10px">
+      <b style="color:#1793d1">Stick Man Fantasum Run</b><br>
+      <kbd style="background:#1793d1;color:#fff;padding:1px 6px;border-radius:3px">Unity</kbd> <kbd style="background:#d29922;color:#fff;padding:1px 6px;border-radius:3px">Android</kbd> <kbd style="background:#2ea043;color:#fff;padding:1px 6px;border-radius:3px">C#</kbd> <kbd style="background:#bc8cff;color:#fff;padding:1px 6px;border-radius:3px">Clip Studio</kbd><br>
       Endless runner with 5 power-ups and a story mode across 5 levels. Art by Clip Studio.
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <b>Shutter Minds</b><br>
-      <kbd>Unity</kbd> <kbd>Blender</kbd> <kbd>PC</kbd> <kbd>C#</kbd><br>
+    <td width="50%" valign="top" style="border-left:3px solid #1793d1;padding-left:10px">
+      <b style="color:#1793d1">Shutter Minds</b><br>
+      <kbd style="background:#1793d1;color:#fff;padding:1px 6px;border-radius:3px">Unity</kbd> <kbd style="background:#bc8cff;color:#fff;padding:1px 6px;border-radius:3px">Blender</kbd> <kbd style="background:#d29922;color:#fff;padding:1px 6px;border-radius:3px">PC</kbd> <kbd style="background:#2ea043;color:#fff;padding:1px 6px;border-radius:3px">C#</kbd><br>
       3D horror set in building environments, built at an IGDC 3-day hackathon. Story mode in development.
     </td>
-    <td width="50%" valign="top">
-      <b>Rollback Netcode (unnamed)</b><br>
-      <kbd>C</kbd> <kbd>SDL3</kbd> <kbd>WebSocket</kbd> <kbd>Node.js</kbd> <kbd>PC</kbd><br>
+    <td width="50%" valign="top" style="border-left:3px solid #1793d1;padding-left:10px">
+      <b style="color:#1793d1">Rollback Netcode (unnamed)</b><br>
+      <kbd style="background:#2ea043;color:#fff;padding:1px 6px;border-radius:3px">C</kbd> <kbd style="background:#1793d1;color:#fff;padding:1px 6px;border-radius:3px">SDL3</kbd> <kbd style="background:#bc8cff;color:#fff;padding:1px 6px;border-radius:3px">WebSocket</kbd> <kbd style="background:#2ea043;color:#fff;padding:1px 6px;border-radius:3px">Node.js</kbd> <kbd style="background:#d29922;color:#fff;padding:1px 6px;border-radius:3px">PC</kbd><br>
       Low-level rollback netcode fully in C. Render control HUD under development.
     </td>
   </tr>
 </table>
 
----
+<hr style="border:1px solid #1793d1">
 
-## user@nithin:~$ cat other-projects.md
+## <span style="color:#1793d1">user@nithin:~$</span> cat other-projects.md
 
 ```text
   Linux / Systems
   ├── ozhium-ollium      — OSD controller, pure C, Wayland
   └── Shell-Shript    — Reverse shell, raw sockets
+```
+<kbd style="background:#2ea043;color:#fff;padding:1px 6px;border-radius:3px">C</kbd> <kbd style="background:#bc8cff;color:#fff;padding:1px 6px;border-radius:3px">Wayland</kbd> <kbd style="background:#bc8cff;color:#fff;padding:1px 6px;border-radius:3px">Raw Sockets</kbd>
 
+```text
   AI / ML
   ├── PDF Summary     — NLP-based summarization
   └── Checker CNN     — Face recognition model
 ```
+<kbd style="background:#bc8cff;color:#fff;padding:1px 6px;border-radius:3px">NLP</kbd> <kbd style="background:#1793d1;color:#fff;padding:1px 6px;border-radius:3px">CNN</kbd> <kbd style="background:#1793d1;color:#fff;padding:1px 6px;border-radius:3px">Face Recognition</kbd>
 
----
+<hr style="border:1px solid #1793d1">
 
-## user@nithin:~$ ./profile-summary --detailed
+## <span style="color:#1793d1">user@nithin:~$</span> ./profile-summary --detailed
 
 <p align="center">
   <picture>
@@ -132,4 +136,4 @@
   </picture>
 </p>
 
----
+<hr style="border:1px solid #1793d1">
