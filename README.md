@@ -1,39 +1,22 @@
-## BTW@nithin:~$ fastfetch
+## user@nithin:~$ fastfetch
 
 ```yaml
-┌─────────────────────────────────────────────────────────┐
-│  BTW@nithin:~$ fastfetch                                │
-├─────────────────────────────────────────────────────────┤
-│  Nithin · Game Developer                                │
-│                                                         │
-│  C · C++ · SDL3 · Unity · Godot · Linux                 │
-└─────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│  Nithin · Game Developer                                                               │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│   **Game Development** — Godot, Unity, SDL                                             │
+│   **Systems Programming** — C, C++, Raw Sockets                                        │
+│   **Real-Time Communications** — WebRTC, Encrypted Messaging                           │
+│   **AI/ML Integration** — Face Recognition, NLP-based Tools                            │
+│   **Full-Stack Development** — Mobile (React Native), Web (React), Backend (node)      │
+│  nithin3dev@gmail.com                                                                  │
+│  C · C++ · SDL3 · Unity · Godot · Linux                                                │
+└────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## BTW@nithin:~$ cat introduction.md
-
-<div align="center">
-
-### 👋 Welcome to My Digital Space
-
-I'm a **Game Developer & Systems Programmer** passionate about creating immersive experiences and exploring the depths of low-level systems programming. Currently shipping a **fighting game in C/SDL3**.
-
-**My Expertise:**
-- 🎮 **Game Development** — Godot, Unity, Custom Engines
-- ⚙️ **Systems Programming** — C, C++, Raw Sockets, Wayland
-- 🌐 **Real-Time Communications** — WebRTC, Encrypted Messaging
-- 🤖 **AI/ML Integration** — Face Recognition, NLP-based Tools
-- 📱 **Full-Stack Development** — Mobile (React Native), Web (React), Desktop
-
-**Philosophy:** No engine? Just C, SDL3, and raw determination.
-
-</div>
-
----
-
-## BTW@nithin:~$ ./github-stats --real && ./contribution-calendar
+## user@nithin:~$ ./github-stats --real && ./contribution-calendar
 
 <table>
   <tr>
@@ -53,13 +36,9 @@ I'm a **Game Developer & Systems Programmer** passionate about creating immersiv
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithin-3&theme=dark&hide_border=true&bg_color=0d1117&color=1793d1&line=1793d1&point=f0f6fc&cache_seconds=0" width="98%" alt="Activity Graph" />
-</p>
-
 ---
 
-## BTW@nithin:~$ ./coding-habits --analysis && ./activity-heatmap --recent
+## user@nithin:~$ ./coding-habits --analysis && ./activity-heatmap --recent
 
 <p align="center">
   <picture>
@@ -81,19 +60,9 @@ I'm a **Game Developer & Systems Programmer** passionate about creating immersiv
 
 ---
 
-## BTW@nithin:~$ ./achievements --showcase
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nithin-3/Nithin-3/main/assets/achievements.svg?v=2" width="98%" alt="Achievements" />
-</p>
-
----
-
-## BTW@nithin:~$ ls -la projects/game-dev/
+## user@nithin:~$ tree -L 1 projects/game-dev/
 
 ```text
-┌─[BTW@nithin]─[~/projects]
-└──╼ $ tree -L 1 game-dev/
   game-dev/
   ├── antibio-game/                   Godot — Award-winning educational game
   ├── stickman-fantasum/              Unity — 2D endless runner, 5 power-ups
@@ -104,7 +73,7 @@ I'm a **Game Developer & Systems Programmer** passionate about creating immersiv
 
 ---
 
-## BTW@nithin:~$ cat other-projects.md
+## user@nithin:~$ cat other-projects.md
 
 ```text
   Linux / Systems
@@ -118,7 +87,7 @@ I'm a **Game Developer & Systems Programmer** passionate about creating immersiv
 
 ---
 
-## BTW@nithin:~$ ./profile-summary --detailed
+## user@nithin:~$ ./profile-summary --detailed
 
 <p align="center">
   <picture>
