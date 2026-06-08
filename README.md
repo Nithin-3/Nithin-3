@@ -40,23 +40,30 @@
 
 ## user@nithin:~$ ./coding-habits --analysis && ./activity-heatmap --recent
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nithin-3/Nithin-3/main/assets/coding-habits.svg" />
-    <img width="98%" src="https://raw.githubusercontent.com/Nithin-3/Nithin-3/main/assets/coding-habits.svg" alt="Coding Habits" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nithin-3&theme=transparent&cache_seconds=0" />
-    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nithin-3&theme=transparent&cache_seconds=0" alt="Coding Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nithin-3&theme=transparent&cache_seconds=0" />
-    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nithin-3&theme=transparent&cache_seconds=0" alt="Most Commit Language" />
-  </picture>
-</p>
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nithin-3/Nithin-3/main/assets/coding-habits.svg" />
+        <img width="98%" src="https://raw.githubusercontent.com/Nithin-3/Nithin-3/main/assets/coding-habits.svg" alt="Coding Habits" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nithin-3&theme=transparent&cache_seconds=0" />
+        <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nithin-3&theme=transparent&cache_seconds=0" alt="Coding Stats" />
+      </picture>
+    </td>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nithin-3&theme=transparent&cache_seconds=0" />
+        <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nithin-3&theme=transparent&cache_seconds=0" alt="Most Commit Language" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ---
 
