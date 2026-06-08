@@ -14,7 +14,7 @@
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-<hr style="border:1px solid #1793d1">
+---
 
 ## <span style="color:#1793d1">user@nithin:~$</span> ./github-stats --real && ./contribution-calendar
 
@@ -36,7 +36,7 @@
   </tr>
 </table>
 
-<hr style="border:1px solid #1793d1">
+---
 
 ## <span style="color:#1793d1">user@nithin:~$</span> ./coding-habits --analysis && ./activity-heatmap --recent
 
@@ -65,7 +65,7 @@
   </tr>
 </table>
 
-<hr style="border:1px solid #1793d1">
+---
 
 ## <span style="color:#1793d1">user@nithin:~$</span> tree -L 1 projects/game-dev/
 
@@ -82,32 +82,44 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top" style="border-left:3px solid #1793d1;padding-left:10px">
-      <b style="color:#1793d1">AntiBio Game</b><br>
-      <kbd style="background:#1793d1;color:#fff;padding:1px 6px;border-radius:3px">Godot</kbd> <kbd style="background:#d29922;color:#fff;padding:1px 6px;border-radius:3px">Android</kbd> <kbd style="background:#2ea043;color:#fff;padding:1px 6px;border-radius:3px">GDScript</kbd><br>
+    <td width="50%" valign="top">
+      <b>AntiBio Game</b><br>
+      <img src="https://img.shields.io/badge/Godot-1793d1?style=flat" alt="Godot">
+      <img src="https://img.shields.io/badge/Android-d29922?style=flat" alt="Android">
+      <img src="https://img.shields.io/badge/GDScript-2ea043?style=flat" alt="GDScript"><br>
       2D platformer educating on antibiotic resistance. 5 levels — enemies mutate like bacteria, gaining new traits each level. Power-ups unlock per level. Custom joystick, no external assets. Award-winning.
     </td>
-    <td width="50%" valign="top" style="border-left:3px solid #1793d1;padding-left:10px">
-      <b style="color:#1793d1">Stick Man Fantasum Run</b><br>
-      <kbd style="background:#1793d1;color:#fff;padding:1px 6px;border-radius:3px">Unity</kbd> <kbd style="background:#d29922;color:#fff;padding:1px 6px;border-radius:3px">Android</kbd> <kbd style="background:#2ea043;color:#fff;padding:1px 6px;border-radius:3px">C#</kbd> <kbd style="background:#bc8cff;color:#fff;padding:1px 6px;border-radius:3px">Clip Studio</kbd><br>
+    <td width="50%" valign="top">
+      <b>Stick Man Fantasum Run</b><br>
+      <img src="https://img.shields.io/badge/Unity-1793d1?style=flat" alt="Unity">
+      <img src="https://img.shields.io/badge/Android-d29922?style=flat" alt="Android">
+      <img src="https://img.shields.io/badge/C%23-2ea043?style=flat" alt="C#">
+      <img src="https://img.shields.io/badge/Clip%20Studio-bc8cff?style=flat" alt="Clip Studio"><br>
       Endless runner with 5 power-ups and a story mode across 5 levels. Art by Clip Studio.
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" style="border-left:3px solid #1793d1;padding-left:10px">
-      <b style="color:#1793d1">Shutter Minds</b><br>
-      <kbd style="background:#1793d1;color:#fff;padding:1px 6px;border-radius:3px">Unity</kbd> <kbd style="background:#bc8cff;color:#fff;padding:1px 6px;border-radius:3px">Blender</kbd> <kbd style="background:#d29922;color:#fff;padding:1px 6px;border-radius:3px">PC</kbd> <kbd style="background:#2ea043;color:#fff;padding:1px 6px;border-radius:3px">C#</kbd><br>
+    <td width="50%" valign="top">
+      <b>Shutter Minds</b><br>
+      <img src="https://img.shields.io/badge/Unity-1793d1?style=flat" alt="Unity">
+      <img src="https://img.shields.io/badge/Blender-bc8cff?style=flat" alt="Blender">
+      <img src="https://img.shields.io/badge/PC-d29922?style=flat" alt="PC">
+      <img src="https://img.shields.io/badge/C%23-2ea043?style=flat" alt="C#"><br>
       3D horror set in building environments, built at an IGDC 3-day hackathon. Story mode in development.
     </td>
-    <td width="50%" valign="top" style="border-left:3px solid #1793d1;padding-left:10px">
-      <b style="color:#1793d1">Rollback Netcode (unnamed)</b><br>
-      <kbd style="background:#2ea043;color:#fff;padding:1px 6px;border-radius:3px">C</kbd> <kbd style="background:#1793d1;color:#fff;padding:1px 6px;border-radius:3px">SDL3</kbd> <kbd style="background:#bc8cff;color:#fff;padding:1px 6px;border-radius:3px">WebSocket</kbd> <kbd style="background:#2ea043;color:#fff;padding:1px 6px;border-radius:3px">Node.js</kbd> <kbd style="background:#d29922;color:#fff;padding:1px 6px;border-radius:3px">PC</kbd><br>
+    <td width="50%" valign="top">
+      <b>Rollback Netcode (unnamed)</b><br>
+      <img src="https://img.shields.io/badge/C-2ea043?style=flat" alt="C">
+      <img src="https://img.shields.io/badge/SDL3-1793d1?style=flat" alt="SDL3">
+      <img src="https://img.shields.io/badge/WebSocket-bc8cff?style=flat" alt="WebSocket">
+      <img src="https://img.shields.io/badge/Node.js-2ea043?style=flat" alt="Node.js">
+      <img src="https://img.shields.io/badge/PC-d29922?style=flat" alt="PC"><br>
       Low-level rollback netcode fully in C. Render control HUD under development.
     </td>
   </tr>
 </table>
 
-<hr style="border:1px solid #1793d1">
+---
 
 ## <span style="color:#1793d1">user@nithin:~$</span> cat other-projects.md
 
@@ -116,16 +128,20 @@
   ├── ozhium-ollium      — OSD controller, pure C, Wayland
   └── Shell-Shript    — Reverse shell, raw sockets
 ```
-<kbd style="background:#2ea043;color:#fff;padding:1px 6px;border-radius:3px">C</kbd> <kbd style="background:#bc8cff;color:#fff;padding:1px 6px;border-radius:3px">Wayland</kbd> <kbd style="background:#bc8cff;color:#fff;padding:1px 6px;border-radius:3px">Raw Sockets</kbd>
+<img src="https://img.shields.io/badge/C-2ea043?style=flat" alt="C">
+<img src="https://img.shields.io/badge/Wayland-bc8cff?style=flat" alt="Wayland">
+<img src="https://img.shields.io/badge/Raw%20Sockets-bc8cff?style=flat" alt="Raw Sockets">
 
 ```text
   AI / ML
   ├── PDF Summary     — NLP-based summarization
   └── Checker CNN     — Face recognition model
 ```
-<kbd style="background:#bc8cff;color:#fff;padding:1px 6px;border-radius:3px">NLP</kbd> <kbd style="background:#1793d1;color:#fff;padding:1px 6px;border-radius:3px">CNN</kbd> <kbd style="background:#1793d1;color:#fff;padding:1px 6px;border-radius:3px">Face Recognition</kbd>
+<img src="https://img.shields.io/badge/NLP-bc8cff?style=flat" alt="NLP">
+<img src="https://img.shields.io/badge/CNN-1793d1?style=flat" alt="CNN">
+<img src="https://img.shields.io/badge/Face%20Recognition-1793d1?style=flat" alt="Face Recognition">
 
-<hr style="border:1px solid #1793d1">
+---
 
 ## <span style="color:#1793d1">user@nithin:~$</span> ./profile-summary --detailed
 
@@ -136,4 +152,4 @@
   </picture>
 </p>
 
-<hr style="border:1px solid #1793d1">
+---
