@@ -16,7 +16,7 @@
 
 ---
 
-## <span style="color:#1793d1">user@nithin:~$</span> ./github-stats --real && ./contribution-calendar
+## <span style="color:#1793d1">user@nithin:~$</span> ./github-stats --real &&  ./coding-habits --analysis 
 
 <table>
   <tr>
@@ -31,22 +31,23 @@
       </picture>
     </td>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Nithin-3/Nithin-3/main/assets/isometric-contributions.svg" width="100%" alt="Isometric Contribution Calendar" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nithin-3/Nithin-3/main/assets/coding-habits.svg" />
+        <img width="98%" src="https://raw.githubusercontent.com/Nithin-3/Nithin-3/main/assets/coding-habits.svg" alt="Coding Habits" />
+      </picture>
+      
     </td>
   </tr>
 </table>
 
 ---
 
-## <span style="color:#1793d1">user@nithin:~$</span> ./coding-habits --analysis && ./activity-heatmap --recent
+## <span style="color:#1793d1">user@nithin:~$</span> ./contribution-calendar && ./activity-heatmap --recent
 
 <table>
   <tr>
     <td colspan="2" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nithin-3/Nithin-3/main/assets/coding-habits.svg" />
-        <img width="98%" src="https://raw.githubusercontent.com/Nithin-3/Nithin-3/main/assets/coding-habits.svg" alt="Coding Habits" />
-      </picture>
+      <img src="https://raw.githubusercontent.com/Nithin-3/Nithin-3/main/assets/isometric-contributions.svg" width="100%" alt="Isometric Contribution Calendar" />
     </td>
   </tr>
   <tr>
