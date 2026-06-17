@@ -16,7 +16,7 @@
 
 ---
 
-## <span style="color:#1793d1">user@nithin:~$</span> ./github-stats --real &&  ./coding-habits --analysis 
+## <span style="color:#1793d1">user@nithin:~$</span> ./github-stats --real
 
 <table>
   <tr>
@@ -30,41 +30,19 @@
         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Nithin-3&theme=transparent&hide_border=true&ring=1793d1&fire=1793d1&currStreakLabel=1793d1&sideLabels=f0f6fc&background=0d1117" alt="GitHub Streak Stats" />
       </picture>
     </td>
-    <td width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nithin-3/Nithin-3/main/assets/coding-habits.svg" />
-        <img width="98%" src="https://raw.githubusercontent.com/Nithin-3/Nithin-3/main/assets/coding-habits.svg" alt="Coding Habits" />
-      </picture>
-      
-    </td>
   </tr>
 </table>
 
 ---
 
-## <span style="color:#1793d1">user@nithin:~$</span> ./contribution-calendar && ./activity-heatmap --recent
+## <span style="color:#1793d1">user@nithin:~$</span> ./metrics --dashboard
 
-<table>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://raw.githubusercontent.com/Nithin-3/Nithin-3/main/assets/isometric-contributions.svg" width="100%" alt="Isometric Contribution Calendar" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nithin-3&theme=transparent&cache_seconds=0" />
-        <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nithin-3&theme=transparent&cache_seconds=0" alt="Coding Stats" />
-      </picture>
-    </td>
-    <td width="50%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nithin-3&theme=transparent&cache_seconds=0" />
-        <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nithin-3&theme=transparent&cache_seconds=0" alt="Most Commit Language" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nithin-3/Nithin-3/main/assets/metrics.svg" />
+    <img width="98%" src="https://raw.githubusercontent.com/Nithin-3/Nithin-3/main/assets/metrics.svg" alt="Metrics Dashboard" />
+  </picture>
+</p>
 
 ---
 
