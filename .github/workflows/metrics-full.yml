@@ -22,13 +22,11 @@ jobs:
           committer_branch: main
           committer_message: "chore(metrics): update dashboard [skip ci]"
           filename: assets/metrics.svg
-          config_order: base.header, isocalendar, notable, activity, repositories, followup, people
+          config_order: base.header, isocalendar, activity, repositories, people
           config_display: large
           config_padding: 0, 8
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_followup: yes
-          plugin_followup_sections: repositories
           plugin_people: yes
           plugin_people_types: followers, following
           plugin_people_limit: 6
@@ -36,7 +34,4 @@ jobs:
           plugin_projects: yes
           plugin_projects_limit: 4
           plugin_projects_descriptions: yes
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_types: commit, pull_request
-          plugin_notable_repositories: yes
+
